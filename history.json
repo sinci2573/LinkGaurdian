@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "url": "http://rutracker.org/fake_login.html",
@@ -14,4 +15,22 @@
     "message": "\u2705 No threats found on VirusTotal.",
     "safe": true
   }
+=======
+[
+  {
+    "url": "http://rutracker.org/fake_login.html",
+    "message": "\u2705 No threats found on VirusTotal.\n\ud83d\udd0e Contains sensitive-looking keywords. ",
+    "safe": false
+  },
+  {
+    "url": "http://secure-login-update.account-checker.ga",
+    "message": "\u2705 No threats found on VirusTotal.\n\ud83d\udd0e Suspicious top-level domain. \ud83d\udd0e Contains sensitive-looking keywords. ",
+    "safe": false
+  },
+  {
+    "url": "https://www.apple.com",
+    "message": "\u2705 No threats found on VirusTotal.",
+    "safe": true
+  }
+>>>>>>> e3a7e2e805d9a190ee7773e2d7b82e03fb3a1a4c
 ]
